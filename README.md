@@ -31,4 +31,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zybersika&show_icons=true&locale=en" alt="zybersika" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zybersika&" alt="zybersika" /></p>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Zybersika)](https://git.io/streak-stats)
