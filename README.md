@@ -37,11 +37,3 @@
   <img width=405 src="https://github-readme-stats-salesp07.vercel.app/api?username=Zybersika&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <img width=360 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zybersika&" alt="top-langs"/>
 </div>
-
-
-
-
-[![Zybersika's github trophy](https://github-profile-trophy.vercel.app/?username=Zybersika)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
