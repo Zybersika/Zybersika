@@ -1,4 +1,4 @@
-![Header](./new.png)
+![Header](./new111.png)
 <h1 align="left">Meet the Coder <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" alt="Man Technologist" width="50" height="50" /> </h1>
 <h3 align="left">Passionate Software Engineer | Self-Taught Coder | Creative Content & Digital Creator</h3>
 <img align="right" width="290" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGJ3OXlyMDIwOGw4bGMxZDduNjk3OHk3YWw5dmZrdW51cDlmeTIzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
