@@ -14,9 +14,6 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Grinning%20Cat%20With%20Smiling%20Eyes.webp" alt="Grinning Cat With Smiling Eyes" width="25" height="25" /> Fun fact **I once wrote an entire program with my cat walking on the keyboard. Surprisingly, it compiled without a single error!** 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zybersika&label=Profile%20views&color=0e75b6&style=flat" alt="zybersika" /> </p>
-
-
 <h3 align="left"> ⚡ Connect with me ⚡ </h3>
 <p align="left">
 <a href="https://twitter.com/sikah04" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter (https://skillicons.dev)" alt="sikah04" height="35" width="40" /></a>
@@ -36,9 +33,9 @@
 
 <h3 align="left">⚡ Stats ⚡</h3>
 <div align=left>
-  <img width=470 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Zybersika&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=445 src="https://github-readme-stats-salesp07.vercel.app/api?username=Zybersika&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zybersika&" alt="top-langs"/>
+  <img width=430 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Zybersika&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=405 src="https://github-readme-stats-salesp07.vercel.app/api?username=Zybersika&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=360 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zybersika&" alt="top-langs"/>
 </div>
 
 
