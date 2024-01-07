@@ -33,7 +33,7 @@
 
 <h3 align="left">⚡ Stats ⚡</h3>
 <div align=left>
-  <img width=430 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Zybersika&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=405 src="https://github-readme-stats-salesp07.vercel.app/api?username=Zybersika&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width=360 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zybersika&layout=compact" alt="top-langs"/>
+  <img width=430 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Zybersika&count_private=true&theme=tokyonight&border_radius=10" alt="streak stats"/>
+  <img width=405 src="https://github-readme-stats-salesp07.vercel.app/api?username=Zybersika&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=360 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zybersika&layout=compact&theme=tokyonight" alt="top-langs"/>
 </div>
